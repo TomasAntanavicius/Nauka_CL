@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Biblioteczka>
+  <English 4 IT>
+     <autor>Beata Błaszczyk</autor>
+     <rok>2017</rok>
+  <SQL w mgnieniu oka>
+     <autor>Ben Forta</autor>
+     <rok>2016</rok>
+  <czysty kod. Podręcznik dobrego programisty>
+     <autor>C.Martin</autor>
+     <rok>2016</rok>
+  <SCRUM. Praktyczny przewodnik po najpopularniejszej metodyce Agile>
+     <autor>Kennet S.Rubin</autor>
+     <rok>2015</rok>
+</Biblioteczka>
